@@ -4,12 +4,10 @@
 
 <div align="center">
   <img src="img/fondo.jpg" alt="Background Image"  style="float: right; width: 30%;">
+  </div>
 
-</div>
 <h3 align="center">
-
 🔭 Proyecto nuevo 👨‍💻: Control de inventarios en bodega **CIB**.
-
 </h3>
  <p align="center">
   Tecnologías utilizadas:
