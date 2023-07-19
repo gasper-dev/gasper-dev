@@ -4,7 +4,7 @@
 
 - 🌱 actualmente estoy aprendiendo **astro framework**
 
-- 👯 busco colaborar en **comunidades**
+- 👯 Megusta colaborar en **comunidades**
 
 - 🤝  ayuda en **grupos de dev**
 
