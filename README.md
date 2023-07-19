@@ -6,7 +6,7 @@
 
 - 👯 busco colaborar en **comunidades**
 
-- 🤝 estoy buscando ayuda con **grupos de dev**
+- 🤝  ayuda en **grupos de dev**
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi SSD :)
 
