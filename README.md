@@ -8,11 +8,8 @@
 
 - 🤝 estoy buscando ayuda con **grupos de dev**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [SSD :)](SSD :))
+- 👨‍💻 Todos mis proyectos están disponibles en mi SSD :)
 
-- 📝 [.......](.......)
-
-- 💬 Preguntame sobre **empleo**
 
 - 📫 como llegar a mi **gasperdev....**
 
