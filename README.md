@@ -11,7 +11,6 @@
 - 👨‍💻 Todos mis proyectos están disponibles en mi SSD :)
 
 
-- 📫 como llegar a mi **gasperdev....**
 
 - 📄 .... [Soy una persona creativa, detallista y amante de la resolución de problemas. Poseo una sólida experiencia en el ámbito de redes MikroTik, diseño gráfico y administración de servidores. Mi enfoque innovador me ha permitido destacar en proyectos diversos, tanto técnicos como creativos. Además, soy conocido por mi capacidad para trabajar bajo presión, mi amabilidad y mi habilidad para mantener una comunicación efectiva.](Soy una persona creativa, detallista y amante de la resolución de problemas. Poseo una sólida experiencia en el ámbito de redes MikroTik, diseño gráfico y administración de servidores. Mi enfoque innovador me ha permitido destacar en proyectos diversos, tanto técnicos como creativos. Además, soy conocido por mi capacidad para trabajar bajo presión, mi amabilidad y mi habilidad para mantener una comunicación efectiva.)
 
