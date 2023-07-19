@@ -4,9 +4,9 @@
 
 - 🌱 actualmente estoy aprendiendo **astro framework**
 
-- 👯 Megusta colaborar en **comunidades**
+- 👯 Megusta colaborar en **comunidades** y - 🤝  ayudar en **grupos de dev**
 
-- 🤝  ayuda en **grupos de dev**
+
 
 - 👨‍💻 Todos mis proyectos están disponibles en mi SSD :)
 
