@@ -1,18 +1,19 @@
 <!-- Contenido del README -->
 
 <h1 align="center">Full-stack developers</h1>
-<h3 align="center">Full-stack developers</h3>
 <!-- Contenido del README -->
 
 - 🔭 Actualmente estoy trabajando en **CBI**
 <h1 align="center">Full-stack developers</h1>
 
+- <div align="center">
 - 🌱 actualmente estoy aprendiendo **astro framework**
-<div align="center">
+
+</div>
  <img align='right' src="img/fondo.jpg" alt="picture"  width='30%'>
 
 - 👯 busco colaborar en **comunidades**
-</div>
+
 <h3 align="center">
 
 - 🤝 estoy buscando ayuda con **grupos de dev**
