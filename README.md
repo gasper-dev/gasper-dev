@@ -5,15 +5,7 @@
 - <div align="center">
 - 🌱 actualmente estoy aprendiendo **astro framework**
 </div>
-
  <img align='right' src="img/fondo.jpg" alt="picture"  width='30%'>
-<h3 align="center">
-🔭 Proyecto nuevo 👨‍💻: Control de inventarios en bodega **CIB**.
-</h3>
-
- <p align="center">
-  Tecnologías utilizadas:
-  Next.js para el frontend y Node.js con Express para el backend.</p>
 
 - 🌱 Actualmente estoy aprendiendo **astro framework**
 
