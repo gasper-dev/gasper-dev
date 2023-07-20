@@ -1,10 +1,8 @@
 <!-- Contenido del README -->
 
 <h1 align="center">Full-stack developers</h1>
+ <img align='right' src="img/fondo.jpg" alt="picture"  width='30%'>
 
-<div align="center">
-  <img src="img/fondo.jpg" alt="Background Image"  style="float: right; width: 30%;">
-  </div>
 
 <h3 align="center">
 🔭 Proyecto nuevo 👨‍💻: Control de inventarios en bodega **CIB**.
