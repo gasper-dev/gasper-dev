@@ -5,8 +5,8 @@
  <div align="center">
 - 🌱 actualmente estoy aprendiendo **astro framework**
 </div>
--
--
+
+
 - 📄 Soy una persona creativa, detallista y amante de la resolución de problemas.
 -  Mi enfoque innovador me ha permitido destacar en proyectos diversos.
 
