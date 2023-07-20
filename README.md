@@ -1,44 +1,24 @@
 <!-- Contenido del README -->
 
 <h1 align="center">Full-stack developers</h1>
-<!-- Contenido del README -->
-
-- 🔭 Actualmente estoy trabajando en **CBI**
-<h1 align="center">Full-stack developers</h1>
 
 - <div align="center">
 - 🌱 actualmente estoy aprendiendo **astro framework**
-
 </div>
+
  <img align='right' src="img/fondo.jpg" alt="picture"  width='30%'>
-
-- 👯 busco colaborar en **comunidades**
-
 <h3 align="center">
-
-- 🤝 estoy buscando ayuda con **grupos de dev**
 🔭 Proyecto nuevo 👨‍💻: Control de inventarios en bodega **CIB**.
-
-- 👨‍💻 Todos mis proyectos están disponibles en [SSD :)](SSD :))
 </h3>
+
  <p align="center">
   Tecnologías utilizadas:
   Next.js para el frontend y Node.js con Express para el backend.</p>
 
-- 📝 [.......](.......)
 - 🌱 Actualmente estoy aprendiendo **astro framework**
 
-- 💬 Preguntame sobre **empleo**
 - 👯 Me gusta colaborar en **comunidades** y 👥 ayudar en **grupos de dev**
 
-- 📫 como llegar a mi **gasperdev....**
-- 👨‍💻 Todos mis proyectos están disponibles en mi SSD :)
-
-- 📄 .... [Soy una persona creativa, detallista y amante de la resolución de problemas. Poseo una sólida experiencia en el ámbito de redes MikroTik, diseño gráfico y administración de servidores. Mi enfoque innovador me ha permitido destacar en proyectos diversos, tanto técnicos como creativos. Además, soy conocido por mi capacidad para trabajar bajo presión, mi amabilidad y mi habilidad para mantener una comunicación efectiva.](Soy una persona creativa, detallista y amante de la resolución de problemas. Poseo una sólida experiencia en el ámbito de redes MikroTik, diseño gráfico y administración de servidores. Mi enfoque innovador me ha permitido destacar en proyectos diversos, tanto técnicos como creativos. Además, soy conocido por mi capacidad para trabajar bajo presión, mi amabilidad y mi habilidad para mantener una comunicación efectiva.)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 - 📄 .... [Soy una persona creativa, detallista y amante de la resolución de problemas. Mi enfoque innovador me ha permitido destacar en proyectos diversos, tanto técnicos como creativos.
 
 <h3 align="left">Languages and Tools:</h3>
