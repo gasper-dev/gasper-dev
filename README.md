@@ -3,7 +3,10 @@
 
 
  <div align="center">
+  
 - 🌱 actualmente estoy aprendiendo **astro framework**
+
+  
 </div>
 
 
