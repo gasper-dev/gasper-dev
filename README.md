@@ -6,6 +6,7 @@
  <h3 align="left">📄</h3>
 
 Soy una persona creativa, detallista y amante de la resolución de problemas.
+
 Mi enfoque innovador me ha permitido destacar en proyectos diversos.
 
 <h3 align="left">Lenguajes y  Herramientas:</h3>
