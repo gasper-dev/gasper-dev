@@ -17,8 +17,6 @@
 
 - 👯 Me gusta colaborar en **comunidades** y 👥 ayudar en **grupos de dev**
 
-- 👨‍💻 Todos mis proyectos están disponibles en mi SSD :)
-
 - 📄 .... [Soy una persona creativa, detallista y amante de la resolución de problemas. Mi enfoque innovador me ha permitido destacar en proyectos diversos, tanto técnicos como creativos.
 
 <h3 align="left">Languages and Tools:</h3>
