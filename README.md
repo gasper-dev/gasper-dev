@@ -8,4 +8,4 @@ Soy una persona creativa, detallista y amante de la resolución de problemas.
 
 Mi enfoque innovador me ha permitido destacar en proyectos diversos.
 
-<img align='right' src="img/Lh.png" alt="picture"  width='70%'>
+<img align='left' src="img/Lh.png" alt="picture"  width='100%'>
