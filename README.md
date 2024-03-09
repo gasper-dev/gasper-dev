@@ -3,9 +3,6 @@
 
 
  <h3 align="left">📄</h3>
-
-Soy una persona creativa, detallista y amante de la resolución de problemas.
-
-Mi enfoque innovador me ha permitido destacar en proyectos diversos.
+¡Que el 2024 sea un año lleno de positividad y crecimiento! 🌟🌿
 
 <img align='left' src="img/Lh.png" alt="picture"  width='100%'>
