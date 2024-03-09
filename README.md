@@ -1,5 +1,5 @@
 <h1 align="center">Full-stack developers</h1>
- <img align='right' src="img/fondo2.jpg" alt="picture"  width='30%'>
+ <img align='right' src="img/fondo3.jpg" alt="picture"  width='30%'>
 
 
  <h3 align="left">📄</h3>
