@@ -1,7 +1,6 @@
 <h1 align="center">Full-stack developers</h1>
  <img align='right' src="img/fondo.jpg" alt="picture"  width='30%'>
 
-- 🌱 actualmente estoy aprendiendo **astro framework**
 
  <h3 align="left">📄</h3>
 
