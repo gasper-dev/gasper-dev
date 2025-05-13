@@ -10,4 +10,3 @@ Aun los jóvenes se cansan, se fatigan, y los muchachos tropiezan y caen;
  volarán como las águilas: correrán y no se fatigarán, caminarán y no se cansarán.
 (Isaías 40:30-31)
 
-<img align='left' src="img/Lh.png" alt="picture"  width='100%'>
